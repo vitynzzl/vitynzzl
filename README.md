@@ -1,16 +1,26 @@
-## Hi there 👋
+# Olá, eu sou o Vitor Gabriel
 
-<!--
-**vitynzzl/vitynzzl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Eng de Software em busca de uma oportunidade de estágio em desenvolvimento.
+Estou aprendendo programação do zero, praticando lógica todos os dias e construindo projetos para evoluir.
 
-Here are some ideas to get you started:
+## 🛠️ O que estou estudando
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![C]
+![SQL]
+![Git]
+![GitHub]
+
+- Lógica de programação e algoritmos
+- Linguagem C: ponteiros, structs, arquivos
+- SQL: SELECT, JOIN, GROUP BY
+- Git e GitHub
+
+## 📁 Projetos
+
+| Projeto | Descrição |
+|---|---|
+
+## 📫 Contato
+
+- LinkedIn: [seu-perfil](https://www.linkedin.com/in/vitynzzl)
+- E-mail: 
